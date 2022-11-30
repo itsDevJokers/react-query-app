@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Apple MacBook Pro 17",
+      "color": "Black",
+      "category": "Laptop",
+      "price": 2999
+    },
+    {
+      "name": "Apple Watch",
+      "color": "Silver",
+      "category": "Accessories",
+      "price": "123",
+      "id": 2
+    },
+    {
+      "name": "Apple IPhone 14",
+      "color": "Blue",
+      "category": "Handphone",
+      "price": "399",
+      "id": 3
+    },
+    {
+      "name": "Apple IPhone X",
+      "color": "White",
+      "category": "Handphone",
+      "price": "299",
+      "id": 4
+    },
+    {
+      "name": "Macbook Pro M1 2021",
+      "color": "Black",
+      "category": "Laptop",
+      "price": "999",
+      "id": 5
+    }
+  ]
+}
